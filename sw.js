@@ -1,9 +1,8 @@
-const CACHE_NAME = 'newtons-neetpg-cache-v1';
+const CACHE_NAME = 'newtons-neetpg-cache-v2';
 const ASSETS_TO_CACHE = [
   '/',
   '/index.html',
-  '/logo.png',
-  '/Newtons Neetpg logo.png',
+  '/icon-512.png',
   '/manifest.json'
 ];
 

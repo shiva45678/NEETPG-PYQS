@@ -85,6 +85,7 @@ function getCorrectAnswerIndex(val) {
 }
 var SUBJECT_MAPPING = {
   // Anatomy
+  "Anatomy": { id: "anat", name: "Anatomy", icon: "Bones", color: "bg-blue-100 text-blue-600" },
   "Abdomen": { id: "anat", name: "Anatomy", icon: "Bones", color: "bg-blue-100 text-blue-600" },
   "Embryology": { id: "anat", name: "Anatomy", icon: "Bones", color: "bg-blue-100 text-blue-600" },
   "Histology": { id: "anat", name: "Anatomy", icon: "Bones", color: "bg-blue-100 text-blue-600" },
@@ -94,13 +95,19 @@ var SUBJECT_MAPPING = {
   // Physiology
   "Physiology": { id: "phys", name: "Physiology", icon: "Activity", color: "bg-red-100 text-red-600" },
   "Vestibular System": { id: "phys", name: "Physiology", icon: "Activity", color: "bg-red-100 text-red-600" },
+  "Cvs": { id: "phys", name: "Physiology", icon: "Activity", color: "bg-red-100 text-red-600" },
+  "Cvs(1)": { id: "phys", name: "Physiology", icon: "Activity", color: "bg-red-100 text-red-600" },
+  "Excretory System": { id: "phys", name: "Physiology", icon: "Activity", color: "bg-red-100 text-red-600" },
+  "General Basics": { id: "phys", name: "Physiology", icon: "Activity", color: "bg-red-100 text-red-600" },
   // Biochemistry
+  "Biochemistry": { id: "bioc", name: "Biochemistry", icon: "FlaskConical", color: "bg-purple-100 text-purple-600" },
   "Carbohydrate Chemistry": { id: "bioc", name: "Biochemistry", icon: "FlaskConical", color: "bg-purple-100 text-purple-600" },
   "Lipid": { id: "bioc", name: "Biochemistry", icon: "FlaskConical", color: "bg-purple-100 text-purple-600" },
   "Protein And Amino Acids": { id: "bioc", name: "Biochemistry", icon: "FlaskConical", color: "bg-purple-100 text-purple-600" },
   "Vitamins": { id: "bioc", name: "Biochemistry", icon: "FlaskConical", color: "bg-purple-100 text-purple-600" },
   "Enzymes": { id: "bioc", name: "Biochemistry", icon: "FlaskConical", color: "bg-purple-100 text-purple-600" },
   // Pathology
+  "Pathology": { id: "path", name: "Pathology", icon: "Microscope", color: "bg-green-100 text-green-600" },
   "Cell Injury": { id: "path", name: "Pathology", icon: "Microscope", color: "bg-green-100 text-green-600" },
   "Inflammation": { id: "path", name: "Pathology", icon: "Microscope", color: "bg-green-100 text-green-600" },
   "Neoplasia": { id: "path", name: "Pathology", icon: "Microscope", color: "bg-green-100 text-green-600" },
@@ -143,6 +150,8 @@ var SUBJECT_MAPPING = {
   "Pulmonology": { id: "med", name: "Medicine", icon: "Stethoscope", color: "bg-cyan-100 text-cyan-600" },
   "Rehumatology": { id: "med", name: "Medicine", icon: "Stethoscope", color: "bg-cyan-100 text-cyan-600" },
   "Infectious Disease": { id: "med", name: "Medicine", icon: "Stethoscope", color: "bg-cyan-100 text-cyan-600" },
+  "Oncology": { id: "med", name: "Medicine", icon: "Stethoscope", color: "bg-cyan-100 text-cyan-600" },
+  "Medmaven": { id: "med", name: "Medicine", icon: "Stethoscope", color: "bg-cyan-100 text-cyan-600" },
   // Surgery
   "Surgery": { id: "surg", name: "Surgery", icon: "Scissors", color: "bg-rose-100 text-rose-600" },
   "Urology": { id: "surg", name: "Surgery", icon: "Scissors", color: "bg-rose-100 text-rose-600" },
@@ -150,6 +159,9 @@ var SUBJECT_MAPPING = {
   "Hepatobiliary And Pancreas(1)": { id: "surg", name: "Surgery", icon: "Scissors", color: "bg-rose-100 text-rose-600" },
   "Hepatobiliarysystem (1)": { id: "surg", name: "Surgery", icon: "Scissors", color: "bg-rose-100 text-rose-600" },
   "Git": { id: "surg", name: "Surgery", icon: "Scissors", color: "bg-rose-100 text-rose-600" },
+  // OBGYN
+  "Obstetrics": { id: "obgy", name: "OBGYN", icon: "Baby", color: "bg-pink-100 text-pink-600" },
+  "Gynecology": { id: "obgy", name: "OBGYN", icon: "Baby", color: "bg-pink-100 text-pink-600" },
   // Pediatrics
   "Pediatrics": { id: "peds", name: "Pediatrics", icon: "Baby", color: "bg-orange-100 text-orange-600" },
   // Psychiatry

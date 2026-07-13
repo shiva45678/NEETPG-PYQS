@@ -1,21 +1,22 @@
 {
-  "name": "Newtons NEET PG Preparation",
-  "short_name": "Newtons NeetPG",
+  "name": "Newtons NeetPG",
+  "short_name": "NewtonsAI",
   "description": "Adaptive Study & QBank Platform by Newtons AI",
+  "id": "/",
   "start_url": "/",
   "display": "standalone",
-  "background_color": "#f8fafc",
+  "background_color": "#ffffff",
   "theme_color": "#4f46e5",
   "orientation": "portrait",
   "icons": [
     {
-      "src": "/logo.png",
-      "sizes": "512x512",
+      "src": "/icon-512.png",
+      "sizes": "192x192",
       "type": "image/png",
-      "purpose": "any maskable"
+      "purpose": "any"
     },
     {
-      "src": "/Newtons Neetpg logo.png",
+      "src": "/icon-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable"
