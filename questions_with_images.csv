@@ -12,12 +12,10 @@ Abdomen,General,Abdomen,"In relation to the anatomy of vasa brevia, a senior sur
 Abdomen,General,Abdomen,Identify the given image?,"The stomach is located in the upper left quadrant of the abdomen, anatomically adjacent to the left kidney.",Stomach,Spleen,2nd part of duodenum,Pancreas,A
 Pharmacology,Pharmacology,Ans Pharma,"Which medication induces the depicted changes in blood pressure and heart rate, as illustrated in the image?","Norepinephrine increases blood pressure and induces reflex bradycardia by activating alpha-adrenergic receptors, leading to vasoconstriction. Other options like isoproterenol and epinephrine lead to different hemodynamic effects due to their receptor profiles.",A. Norepinephrine,B. Isoproterenol,C. Epinephrine,D. Dopamine,A
 Pharmacology,Pharmacology,Ans Pharma,"What could be the likely diagnosis for a 45-year-old female patient who visited the medicine OPD complaining of muscle weakness and blurred vision after exertion, mainly in the evening? Upon examination, the patient displayed ptosis, and their symptoms improved after undergoing the edrophonium test.","B: Myasthenia gravis is an autoimmune disorder where antibodies attack nicotinic receptors at neuromuscular junctions, leading to muscle weakness. The other options describe conditions with different underlying mechanisms.",A. Lambert Eaton syndrome,B. Myasthenia gravis,C. Gullian barre syndrome,D. Bronchial asthma,B
-Orthopedics,Arthritis,Arthritis,"What is the probable diagnosis for a 77-year-old woman who had a total knee replacement (TKR) and now presents with worsening pain, swelling, and stiffness in her right leg?","The most likely diagnosis in this case is Pseudogout.
-
+Orthopedics,Arthritis,Arthritis,"What is the probable diagnosis for a 77-year-old woman who had a total knee replacement (TKR) and now presents with worsening pain, swelling, and stiffness in her right leg?","The most likely diagnosis in this case is Pseudogout.
  • Pseudogout, also known as calcium pyrophosphate deposition disease (CPPD), is a condition
  characterized by the deposition of calcium pyrophosphate crystals in the joints, leading to inflammation
- and symptoms similar to gout. It commonly affects large joints such as the knees, and the presentation
-
+ and symptoms similar to gout. It commonly affects large joints such as the knees, and the presentation
 is often acute with sudden onset of pain, swelling, and warmth in the affected joint. The knee is a
  commonly involved joint in pseudogout.
  • In this case, the patient's symptoms of increasing pain, swelling, and stiffness of the right knee, along
@@ -523,8 +521,7 @@ Environment And Health,General,Environment And Health,The air pollution index ch
  that this level of air pollution can cause severe respiratory symptoms, aggravate existing health
  conditions, and have widespread adverse effects on public health",Moderately polluted,Poor,Very poor,Severe,D
 Enzymes,General,Enzymes,Which of the statements below accurately describes the characteristics of the Michaelis-Menten graph?,"• Km stands for the dissociation constant of enzyme. A high Km represents weak binding of enzymes
- with the substrate while a low Km stands for strong binding with the substrate. Hence, dissociation of
-
+ with the substrate while a low Km stands for strong binding with the substrate. Hence, dissociation of
 substrate does not occur if a low Km value is present.
  • According to Michaelis-Menten equation, v = Vmax [S] /Km+[S]  where v is the velocity of enzyme, S
  is substrate, Km is Michaelis-Menten constant, and Vmax is maximum velocity achieved by the
@@ -1020,8 +1017,7 @@ Orthopedics,Lower Limb,"Lower Limb, Pelvis, Spine","What type of displacement is
  most common type of distal radius fracture, usually caused by a fall on an outstretched hand.
  • Displacement of Radius that may be seen in Colles’ fracture: Dorsal shift Dorsal tilt  Lateral shift
  Lateral tilt Supination Proximal shift
- • Dorsal shift
-
+ • Dorsal shift
 • Dorsal tilt 
 • Lateral shift
  • Lateral tilt
@@ -1087,8 +1083,7 @@ Orthopedics,Lower Limb,"Lower Limb, Pelvis, Spine",A 35-year-old man presented w
  • On X-rays, Osteoclastomas typically present as eccentrically located, well-defined, and expansile
  lesions with a radiolucent rim that can be mistaken for benign bone tumors such as simple bone cysts.
  • In addition, Osteoclastomas may show thin, cortical bone expansion around the lesion.
- • Giant cell tumour (GCT) is a common bone tumour with variable growth potential.
-
+ • Giant cell tumour (GCT) is a common bone tumour with variable growth potential.
 • Only tumour that can involve the joints
  • Only tumour that can involve the cartilage
  • GCT has 2 types of cells Giant cells Mononuclear cells: Malignant cells
@@ -1177,8 +1172,7 @@ Orthopedics,Lower Limb,"Lower Limb, Pelvis, Spine",What can be the diagnosis of 
  ula has failed to descend from the neck. Slight limitations of abduction. Most commonly associated with
  Klippel-feil syndrome. X-ray shows omovertebral bone",Ankylosing spondylitis,Facioscapulohumeral dystrophy,Cervical Fracture,Sprengel’s deformity,D
 Orthopedics,Lower Limb,"Lower Limb, Pelvis, Spine",A male patient presented with a fracture of the Tibia following a road traffic accident. What is the likely diagnosis?,"• Dyspnea, a decrease in oxygen saturation, and the presence of petechiae all over the body in a male
- patient who has broken a long bone in a car accident could be signs of the hazardous medical disorder
-
+ patient who has broken a long bone in a car accident could be signs of the hazardous medical disorder
 known as fat embolism syndrome (FES)
  • Fat embolism syndrome (FES) is a serious medical condition that can occur after a bone fracture or
  other traumatic injury.
@@ -1238,8 +1232,7 @@ Orthopedics,Lower Limb,"Lower Limb, Pelvis, Spine","What is the probable diagnos
  • Position of the affected limb: The limb is typically flexed, adducted (moved towards the midline), and
  medially rotated (inwardly rotated).
  • Obvious shortening: The affected limb may appear shorter compared to the contralateral side due to
- the displacement of the femoral head.
-
+ the displacement of the femoral head.
 • Restricted range of motion: The patient may experience pain and limited range of motion in the
  affected hip joint.
  • To confirm the diagnosis, imaging studies such as X-rays or CT scans of the hip joint can be
@@ -1264,8 +1257,7 @@ Orthopedics,Lower Limb,"Lower Limb, Pelvis, Spine","Which of the following is th
  • It is more common in young males and has a strong association with HLA-B27.
  • Clinical features include inflammatory back pain, morning stiffness, and limited spinal mobility.
  • Extra-articular manifestations can occur, such as uveitis, aortic regurgitation, and involvement of other
- joints, such as the hips and shoulders.
-
+ joints, such as the hips and shoulders.
 • Radiographic findings typically include bilateral sacroiliitis, characterized by erosions, sclerosis, and
  joint space narrowing in the sacroiliac joints.
  • The development of syndesmophytes, bony bridges between adjacent vertebrae, leads to bamboo
@@ -1335,8 +1327,7 @@ Orthopedics,Lower Limb,"Lower Limb, Pelvis, Spine","The patient is a 67-year-old
  Interventions: Surgery may be needed in severe cases.
  • Later Stage: Joint deformities, instability, and potential fractures.
  • Stage 1 (Coalescence): Fragmentation and destruction of the joint with debris formation.
- • Stage 2 (Reconstruction): Reabsorption of debris and attempts at joint reconstruction.
-
+ • Stage 2 (Reconstruction): Reabsorption of debris and attempts at joint reconstruction.
 • Stage 3 (Reconstitution): Remodeling and reconstitution of the joint.",Rheumatoid arthropathy,Osteoarthritis,Charcot arthropathy,Psoriatic arthropathy,C
 Orthopedics,Lower Limb,"Lower Limb, Pelvis, Spine","What could be the probable diagnosis for a 40-year-old patient involved in a road traffic accident, as depicted in the provided pelvis radiograph?"," Posterior dislocation of the hip
  In posterior hip dislocation, the femoral head is displaced posteriorly from the acetabulum.
@@ -1607,8 +1598,7 @@ Nephrology,General Nephrology,Nephrology,A 10-year-old presents with edema and a
 Nephrology,General Nephrology,Nephrology,"What is the diagnosis of a 5-year-old child who initially had edema of the face that later developed into generalized edema? The urine analysis revealed significant proteinuria, while light microscopy
 results were normal. However, electron microscopy indicated effacement of podocyte foot processes.",Minimal-change disease is the most common cause in children and is confirmed via electron microscopy. Reference: American Journal of Kidney Diseases.,Focal segmental glomerulosclerosis,Minimal change disease,Membranous glomerulonephritis,Post streptococcal glomerulonephritis,B
 Nephrology,General Nephrology,Nephrology,"What investigation can be employed to determine the underlying diagnosis in a 3-year-old boy with recurrent UTIs The mother reports that he urinates
-frequently but has a weak urinary stream and dribbling of urine. Upon examination, a palpable bladder
-is detected.",Micturating cystourethrography helps diagnose urinary obstruction or reflux. Reference: Journal of Pediatric Nephrology.,Ultrasonogram,Micturating cystourethrography,Urine routine examination,DMSA scan,B
+frequently but has a weak urinary stream and dribbling of urine. Upon examination, a palpable bladderis detected.",Micturating cystourethrography helps diagnose urinary obstruction or reflux. Reference: Journal of Pediatric Nephrology.,Ultrasonogram,Micturating cystourethrography,Urine routine examination,DMSA scan,B
 Nephrology,General Nephrology,Nephrology,What is the probable diagnosis for a male patient taking diuretics who presents with weakness and an ECG revealing flattened T waves and prominent U waves?,"The most likely diagnosis is hypokalemia. Diuretics can cause potassium loss leading to hypokalemia, which is characterized by ECG changes like flat T waves and prominent U waves. Symptoms can include muscle weakness, fatigue, muscle spasm, and palpitations.",Hypokalaemia,Hyperkalaemia,Hypomagnesemia,Hypernatremia,A
 Nephrology,General Nephrology,Nephrology,"What is the likely diagnosis for a patient who complains of pain in the flank region accompanied by hematuria, and has multiple calcifications (stones) observed in both kidneys on X-ray examination?","Flank pain, hematuria, and multiple calcifications on X-ray suggest renal calculi (kidney stones). Further imaging may confirm the diagnosis.",Parathyroid Adenoma,Renal calculi,Polycystic kidney disease,CKD,B
 Nephrology,General Nephrology,Nephrology,"What acid-base imbalance is most likely to be observed in a middle-aged man with chronic renal failure on dialysis who experiences sudden collapse in the emergency department and exhibits labored breathing, as evidenced by tall, tented T waves on the ECG?","The pH is low at 7.14 (acidemia), with low pCO2 suggesting respiratory alkalosis and a very low HCO3- indicating severe metabolic acidosis. Tall T waves on ECG suggest hyperkalemia, often associated with metabolic acidosis.","pH-7.14, pCO2-20 mmHg, HCO3- 5 mEq/L","pH-7.14, pCO2-20 mmHg, HCO3- 34 mEq/L","pH-7.54, HCO3- 27 mEq/L, pCO2- 34 mmHg","pH-7.4, HCO3- 27 mEq/L, pCO2- 40 mmHg",A
@@ -2396,8 +2386,7 @@ Papulo Squamous Disorders-1,General,Papulo Squamous Disorders,"A patient present
  inflammation of the joints. Methotrexate belongs to a class of drugs called disease-modifying
  anti-rheumatoid drugs (DMARDs). It reduces inflammation and alleviates the symptoms of arthritis.",PUVA,Steroids,Methotrexate,Infliximab,C
 Papulo Squamous Disorders-1,General,Papulo Squamous Disorders,"What is the most probable diagnosis for a child who has displayed symptomless lesions on the forearm and shaft of the penis, as depicted in the image of the forearm lesions below?"," • Lichen nitidus: Lichen nitidus is a benign inflammatory skin condition that typically presents as
- small, flat-topped, flesh-colored, or hypopigmented papules. The lesions are usually asymptomatic
-
+ small, flat-topped, flesh-colored, or hypopigmented papules. The lesions are usually asymptomatic
 and can occur on various parts of the body, including the extremities, genitalia, and trunk. The
  involvement of the forearm and the shaft of the penis is consistent with the distribution pattern seen
  in lichen nitidus.",Lichen planus,Lichen nitidus,Scrofuloderma,Scabies,B
@@ -2405,8 +2394,7 @@ Papulo Squamous Disorders-1,General,Papulo Squamous Disorders,Lichen Planus is c
  membrane zone of the cell. It is a condition of the skin, hair, nails, mouth and genitals. On skin,
  lichen planus often appears as purple, itchy, flat bumps that develop over several weeks. In the
  mouth and genital mucosa, lichen planus forms lacy white patches, sometimes with painful sores.
- • There are Some basic drugs which can cause Lichen Planus are:
-
+ • There are Some basic drugs which can cause Lichen Planus are:
 • Antibacterials
  • Anti Tubercular Drug
  • Antihypertensive
@@ -2421,8 +2409,7 @@ Papulo Squamous Disorders-1,General,Papulo Squamous Disorders,Lichen Planus is c
  • Lichen Planus also shows Positive Koebner's phenomenon, along the line of trauma, and can see
  these Papules which are developing along the lines of trauma. Another one is known as Wickham's
  Striae and can see the whitish streaks on the regions of Lichen Planus. This happens because in
- Lichen Planus there is hypergranulosis.
-
+ Lichen Planus there is hypergranulosis.
 • The oral mucosa regions are symptomatic. The symptoms Include is Pain & burning on eating hot
  spicy food. When a patient eats hot spicy food, the patient experiences pain and burning . When
  examining the oral mucosa, you can see white reticular lacy (lacy white streaks) like patterns in the
@@ -3018,17 +3005,13 @@ department after experiencing choking? Upon examination, reduced airflow is obse
 1. When a patient is present with a history of choking and decreased air entry in a lung, it indicates a p
 ossible obstruction in the airway. In such cases, the primary concern is identifying and removing the for","1, 2, and 4",1 and 2,3 and 4,1 and 4,D
 Pediatrics,Respiratory,Respiratory,The following image is of the most common cause of stridor in children. Identify it.,"Correct choice: A
-Explanations Laryngomalacia is caused by floppiness of the laryngeal tissues above the vocal cords (the supraglottic
-larynx). A condition that results from a birth defect in the child's voice box (larynx).
+Explanations Laryngomalacia is caused by floppiness of the laryngeal tissues above the vocal cords (the supraglotticlarynx). A condition that results from a birth defect in the child's voice box (larynx).
 Excess omega-shaped epiglottis is a feature of laryngomalacia. With inspiration (breathing in), the tissues above the vocal cords fall in towards the airway and cause partial obstruction. This can result in stridor , a high-pitched sound that is heard when your child inhales. More than half of infants have noisy breathing during the first week of life, and most develop this by 2-4 weeks of age. The doctor will most likely recommend a supraglottoplasty.",Laryngomalacia,Laryngeal papilloma,Chronic epiglottitis,Laryngocele,A
 Pediatrics,Respiratory,Respiratory,"What is the diagnosis for an infant who is admitted with respiratory distress, prolonged expiration,
 rhonchi in the chest, and hyperinflation shown on a CXR?","Correct Option D: 
 • The diagnosis based on the given clinical presentation and findings is Bronchiolitis.
-• Bronchiolitis is a common respiratory condition in infants, typically caused by a viral infection, most
-commonly respiratory syncytial virus (RSV). It primarily affects the small airways (bronchioles) and can
-lead to respiratory distress.
-• The symptoms of bronchiolitis include respiratory distress, prolonged expiration, wheezing, and
-rhonchi (abnormal breath sounds). Hyperinflation of the lungs is often observed on a chest X-ray.",Pneumonia,Croup,Asthma,Bronchiolitis,D
+• Bronchiolitis is a common respiratory condition in infants, typically caused by a viral infection, mostcommonly respiratory syncytial virus (RSV). It primarily affects the small airways (bronchioles) and canlead to respiratory distress.
+• The symptoms of bronchiolitis include respiratory distress, prolonged expiration, wheezing, andrhonchi (abnormal breath sounds). Hyperinflation of the lungs is often observed on a chest X-ray.",Pneumonia,Croup,Asthma,Bronchiolitis,D
 Resuistantion,General,Resuistantion,Please identify the maneuver being executed in the image provided.,The head tilt-chin lift maneuver is used to open the airway in unconscious patients. It's appropriate except in cases of trauma. This technique lifts the chin to prevent airway obstruction by the tongue.,"Head tilt, chin lift",Jaw thrust,Head extension,In-line manual stabilization,A
 Resuistantion,General,Resuistantion,Identify the device shown in the image below.,An Automated External Defibrillator (AED) is designed to analyze heart rhythms and provide defibrillation to patients in cardiac arrest.,Automated External Desynchonizer,Automated external defibrillator,Automated electronic defibrillator,Automated external decompressor,B
 Ophthalmology,Retina,Retina,"What is the probable diagnosis for a 3-year-old boy who has presented with cognitive impairment and difficulty in mobility, along with the provided fundoscopy image?"," • The neurodegenerative disorder Tay Sachs disease (TSD), which progresses and is fatal, is brought
