@@ -282,7 +282,7 @@ function loadDataset() {
   const qList = [];
   const subjectCounts = {};
   const subjectTopics = {};
-  const csvPath = import_path.default.join(process.cwd(), "questions_without_images.csv");
+  const csvPath = import_path.default.join(process.cwd(), "public", "questions_without_images.csv");
   if (import_fs.default.existsSync(csvPath)) {
     try {
       const content = import_fs.default.readFileSync(csvPath, "utf8");
@@ -329,7 +329,7 @@ function loadDataset() {
   } else {
     console.warn("questions_without_images.csv not found.");
   }
-  const imageCsvPath = import_path.default.join(process.cwd(), "questions_with_images.csv");
+  const imageCsvPath = import_path.default.join(process.cwd(), "public", "questions_with_images.csv");
   if (import_fs.default.existsSync(imageCsvPath)) {
     try {
       const content = import_fs.default.readFileSync(imageCsvPath, "utf8");
