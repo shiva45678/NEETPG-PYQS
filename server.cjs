@@ -478,36 +478,26 @@ async function startServer() {
       res.json({ recommendations: getDynamicFallbacks() });
     }
   });
-  app.get(["/.well-known/assetlinks.json", "/well-known/assetlinks.json"], (req, res) => {
-    const possiblePaths = [
-      import_path.default.join(process.cwd(), "public", ".well-known", "assetlinks.json"),
-      import_path.default.join(process.cwd(), "dist", ".well-known", "assetlinks.json")
-    ];
-    let foundPath = "";
-    for (const p of possiblePaths) {
-      if (import_fs.default.existsSync(p)) {
-        foundPath = p;
-        break;
+  const assetlinks = [
+    {
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "in.newtons.neetpg.twa",
+        "sha256_cert_fingerprints": [
+          "F8:EE:D0:16:9F:E6:37:61:52:61:56:69:0C:57:10:A3:63:13:38:4A:F7:D5:9A:C2:2D:DE:E0:06:1C:7A:22:D2"
+        ]
       }
     }
+  ];
+  app.get([
+    "/.well-known/assetlinks.json",
+    "/well-known/assetlinks.json",
+    "/.well-know/assetlinks.json",
+    "/well-know/assetlinks.json"
+  ], (req, res) => {
     res.setHeader("Content-Type", "application/json");
-    if (foundPath) {
-      res.sendFile(foundPath);
-    } else {
-      const fallbackAssetLinks = [
-        {
-          "relation": ["delegate_permission/common.handle_all_urls"],
-          "target": {
-            "namespace": "android_app",
-            "package_name": "in.newtons.neetpg.twa",
-            "sha256_cert_fingerprints": [
-              "F8:EE:D0:16:9F:E6:37:61:52:61:56:69:0C:57:10:A3:63:13:38:4A:F7:D5:9A:C2:2D:DE:E0:06:1C:7A:22:D2"
-            ]
-          }
-        }
-      ];
-      res.json(fallbackAssetLinks);
-    }
+    res.json(assetlinks);
   });
   if (process.env.NODE_ENV !== "production") {
     const vite = await (0, import_vite.createServer)({
