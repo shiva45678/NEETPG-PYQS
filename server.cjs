@@ -478,6 +478,15 @@ async function startServer() {
       res.json({ recommendations: getDynamicFallbacks() });
     }
   });
+  app.get("/.well-known/assetlinks.json", (req, res) => {
+    const filePath = import_path.default.join(process.cwd(), "public", ".well-known", "assetlinks.json");
+    if (import_fs.default.existsSync(filePath)) {
+      res.setHeader("Content-Type", "application/json");
+      res.sendFile(filePath);
+    } else {
+      res.status(404).send("Not Found");
+    }
+  });
   if (process.env.NODE_ENV !== "production") {
     const vite = await (0, import_vite.createServer)({
       server: { middlewareMode: true },
@@ -486,7 +495,7 @@ async function startServer() {
     app.use(vite.middlewares);
   } else {
     const distPath = import_path.default.join(process.cwd(), "dist");
-    app.use(import_express.default.static(distPath));
+    app.use(import_express.default.static(distPath, { dotfiles: "allow" }));
     app.get("*", (req, res) => {
       res.sendFile(import_path.default.join(distPath, "index.html"));
     });
